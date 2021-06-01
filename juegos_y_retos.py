@@ -1,5 +1,5 @@
 #CREADOR DE 150 NÚMEROS EN SECUENCIA
-"""
+
 lista=input("deme una lista de números en secuencia")
 listaideal=[]
 listaideal.append(int(lista[0]))
@@ -11,7 +11,7 @@ for i in range(150):
 print(listaideal)
 """
 #JUEGO DE DADOS
-"""
+
 import random
 
 nombre1=str(input("ingrese su nombre"))
@@ -56,7 +56,7 @@ elif points2==1:
     print("el ganador es", nombre2)
 else:
     print("juego terminado")
-"""
+
 #ENCONTRADOR DE AÑOS BISIESTOS
 """
 def esbisisiesto(año):
@@ -70,9 +70,9 @@ def esbisisiesto(año):
     return año, " no es bisiesto"
 aso=print(esbisisiesto(4000))
 
-"""
+
 #VALIDADOR DE CONTRASEÑAS
-"""
+
 contraseña=input("ingrese su contraseña:")
 validacion=True
 while validacion==True:
@@ -97,10 +97,10 @@ while validacion==True:
     else:
         print("contraseña correcta")
         validacion=False
-"""
+
 
 #CREADOR DE TABLAS DE MULTIPLICAR
-"""
+
 def creadordetablasdemultiplicar(a,b):
     tablas=[]
     rango=range(1,b+1,1)
@@ -108,4 +108,4 @@ def creadordetablasdemultiplicar(a,b):
         tablas.append(a*x)
     return (tablas)
 print(creadordetablasdemultiplicar(3.14,10))
-"""
+
