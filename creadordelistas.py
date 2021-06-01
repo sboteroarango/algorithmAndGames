@@ -1,4 +1,4 @@
-#CREADOR DE 150 NÚMEROS EN SECUENCIA
+#CREADOR DE NÚMEROS EN SECUENCIA
 
 lista=input("deme una lista de números en secuencia")
 listaideal=[]
