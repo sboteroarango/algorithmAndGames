@@ -9,7 +9,7 @@ for i in range(150):
     x=sum([listaideal[-1]+listaideal[-2]])
     listaideal.append(x)
 print(listaideal)
-"""
+
 #JUEGO DE DADOS
 
 import random
@@ -58,7 +58,7 @@ else:
     print("juego terminado")
 
 #ENCONTRADOR DE AÑOS BISIESTOS
-"""
+
 def esbisisiesto(año):
     if (año%4)==0:
         if (año%100)==0:
