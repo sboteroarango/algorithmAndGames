@@ -1,5 +1,5 @@
-# random-things
+# algorithms
 
-⚡️ En este repositorio publico todos los programas que he creado 
+⚡️ En este repositorio publico todos los algoritmos que he creado 
 
-⚡️ In this repository I publish all the programs that I have created
+⚡️ In this repository I publish all the algorithms that I have created
