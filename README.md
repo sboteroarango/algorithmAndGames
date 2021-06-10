@@ -1,4 +1,4 @@
-# algorithm
+# algorithmAndGames
 
 ⚡️ En este repositorio publico todos los algoritmos que he creado 
 
