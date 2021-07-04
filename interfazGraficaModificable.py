@@ -1,4 +1,4 @@
-print('Ingrese el largo y el ancho de la interfaz que desea como 2 numeros enteros separados por espacio :')
+print('Ingrese el largo y el ancho de la interfaz que desea como 2 numeros impares separados por espacio, donde el segundo es el primero por 3 ej:(7 21) :')
 datos = input().split()
 N,M = int(datos[0]), int(datos[1])
 simbolo = ''
